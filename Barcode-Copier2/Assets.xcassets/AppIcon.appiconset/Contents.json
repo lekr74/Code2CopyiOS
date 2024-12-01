@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "une icône pour une app iOS de scanner des codes-barres et denvoyer le contenu au presse-papiers, sans chiffres ni lettres, avec des couleurs pastel et un design plat.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -12,6 +13,7 @@
           "value" : "dark"
         }
       ],
+      "filename" : "une icône pour une app iOS de scanner des codes-barres et denvoyer le contenu au presse-papiers, sans chiffres ni lettres, avec des couleurs pastel et un design plat 1.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -23,6 +25,7 @@
           "value" : "tinted"
         }
       ],
+      "filename" : "une icône pour une app iOS de scanner des codes-barres et denvoyer le contenu au presse-papiers, sans chiffres ni lettres, avec des couleurs pastel et un design plat 2.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
