@@ -33,10 +33,8 @@ Barcode Copier est une application iOS conçue pour scanner, traiter et gérer d
 	•	Tous les codes scannés sont automatiquement enregistrés dans un historique.
 	•	L’historique inclut :
 	•	Le contenu du code scanné
-	•	Le type de code (ex. WiFi Password, QR Code)
-	•	La date et l’heure du scan
+	•	La date du scan
 	•	Fonctionnalités supplémentaires de l’historique :
-	•	Rechercher parmi les codes enregistrés.
 	•	Supprimer un code spécifique ou tout l’historique.
 	•	Copier rapidement le contenu d’un code directement depuis l’historique.
 
